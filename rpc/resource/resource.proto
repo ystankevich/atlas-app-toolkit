@@ -7,5 +7,5 @@ option go_package = "github.com/infobloxopen/atlas-app-toolkit/rpc/resource/reso
 message Identifier {
     string application_id = 1;
     string resource_type = 2;
-    string resource_id = 3;    
+    string resource_id = 3;
 }
